@@ -37,7 +37,7 @@ FirebaseAuth auth;
 
 // WiFi credentials
 const char* WIFI_SSID = "a";
-const char* WIFI_PASSWORD = "Aksel*#5319";
+const char* WIFI_PASSWORD = "why*#5319";
 
 void setup() {
   Serial.begin(115200);
