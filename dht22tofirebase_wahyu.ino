@@ -4,7 +4,7 @@
 
 // Gantilah dengan kredensial Wi-Fi Anda
 const char* ssid = "a";
-const char* password = "Aksel*#5319";
+const char* password = "why*#5319";
 
 // Firebase database URL
 #define FIREBASE_DATABASE_URL "https://dameyu-iot-default-rtdb.firebaseio.com"
